@@ -1,7 +1,7 @@
 # yellow-flowers
 - Flowers repository: https://github.com/cristiandaos/yellow-flowers
 
-# Author:
+# Author
 - Cristian Oscco (@cristiandaos)
 
 Thanks!
